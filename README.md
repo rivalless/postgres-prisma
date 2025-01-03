@@ -1,5 +1,5 @@
 ---
-name: Vercel Postgres + Prisma Next.js Starter
+name: Vercel Postgres + Prisma Next.js Startera
 slug: postgres-prisma
 description: Simple Next.js template that uses Vercel Postgres as the database and Prisma as the ORM.
 framework: Next.js
